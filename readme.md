@@ -1,4 +1,4 @@
-<h1 align="center"> 🧙‍♂️✨ MAGICAL TREASURE HUNT ✨🏰 </h1>
+<h2 align="center" width="50vh"> 🧙‍♂️✨ MAGICAL TREASURE HUNT ✨🏰 </h2>
 
 <p align="center">
 *Because who needs a social life when you can argue with fictional wizards in your terminal?*
