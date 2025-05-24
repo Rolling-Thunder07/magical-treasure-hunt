@@ -10,7 +10,7 @@
 </div>
 
 
-<br>
+<br><br>
 
 Welcome to the most unnecessarily elaborate way to procrastinate on your actual responsibilities! This is a text-based adventure game written in C (yes, C - because I'm apparently stuck in 1972 and proud of it) where you explore a mystical castle, annoy wizards with your presence, and hunt for treasure like a caffeinated Indiana Jones with commitment issues.
 
@@ -27,7 +27,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - 🧩 Answer riddles that range from "Harry Potter trivia" to "things your grandpa would ask"
 - 💎 Find treasure (spoiler: it's in room 7 - oops, did I say that out loud?)
 - 💀 Die spectacularly if you get too many answers wrong (bazinga! - death by trivia)
-<br>
+<br><br><br>
 
 ## 🎯 Features That Will Blow Your Mind*
 *Results may vary. Mind-blowing not guaranteed.
@@ -38,22 +38,24 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - **⏱️ Time Tracking** - So you can see exactly how much of your life you've wasted
 - **🧠 Memory Management** - I use malloc() like a responsible adult (mom would be proud)
 - **📊 Step Counter** - Because apparently we're turning exploration into a fitness tracker now
-<br>
+<br><br><br>
 
 ## 🏰 The Cast of Characters (AKA My Imaginary Friends)
 
 ### The Wizards Who Definitely Need Hobbies:
+<div align="center">
+  
 ![wizards](https://github.com/user-attachments/assets/3f13924e-130e-4d1b-924c-0e8ba508477a)
+</div>
 
-
-
+<br>
 
 - **🧙‍♂️ Albus Dumbledore** - Asks about levitation charms (yes, it's *Wingardium Leviosa*, Hermione)
 - **🖤 Severus Snape** - Tests your Horcrux knowledge (emo wizard energy)
 - **🐱 Minerva McGonagall** - Poses riddles that would make your brain hurt
 - **🐻 Rubeus Hagrid** - Talks about magical creatures (probably wants to adopt them all)
 - **💀 Lord Voldemort** - The final boss who's basically a magical psychopath
-<br>
+<br><br><br>
 
 ### The Locations (My Virtual Real Estate Portfolio):
 - 🚪 **Castle Entrance** - Where dreams begin and hope dies
@@ -66,10 +68,14 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - 💎 **Treasure Room** - The whole point of this exercise
 - 🏛️ **Great Hall** - Where epic stuff probably happened once
 - 🔮 **Secret Chamber** - Because every castle needs one
-<br>
+<br><br><br>
 
 ## 🛠️ Installation (AKA How to Ruin Your Productivity)
+<br>
+<div align="center">
+
 ![typing 3](https://github.com/user-attachments/assets/45d4a9c6-aac4-4a55-b308-72a132f4b608)
+</div>
 
 
 ### Prerequisites:
@@ -77,6 +83,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - A terminal that supports ANSI colors (most do, unless you're using Windows XP)
 - The ability to type without looking at the keyboard (optional but impressive)
 - A sense of humor (mandatory)
+<br><br><br>
 
 ### Compilation Ritual:
 ```bash
@@ -96,7 +103,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 # Use WSL or suffer in silence
 # Or try: gcc treasure_hunt.c -o treasure_hunt.exe
 ```
-<br>
+<br><br>
 
 ## 🎲 How to Play (Like You Need Instructions)
 
@@ -107,7 +114,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 5. **Meet wizards** - Answer their riddles or face the consequences
 6. **Find the treasure** - It's literally the objective
 7. **Brag to your friends** - As if they'll be impressed
-<br>
+<br><br><br>
 
 ### Controls (Because Apparently This Needs Explaining):
 - **1** - Go North ⬆️ (up, away from your problems)
@@ -116,16 +123,17 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - **4** - Go West ⬅️ (left, but we don't talk about that)
 - **5** - Show Map 🗺️ (for when you're hopelessly lost)
 - **6** - Quit 🚪 (coward's way out)
-<br>
+<br><br><br>
 
 ## 📸 In-game Screenshots
-
+<br>
 <div align="center">
 <img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-intro.jpg" width="50%"><img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-location.jpg" width="50%">
 </div>
 <div align="center">
 <img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="50%">
 </div>
+<br><br><br>
 
 ## 🤓 Technical Mumbo Jumbo (For Fellow Code Nerds)
 
@@ -142,7 +150,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - **Structs**: 3 (Location, Wizard, Question - the perfect trio)
 - **Global Variables**: A few (I know, I know, but sometimes you gotta live a little)
 - **Comments**: Excessive (future me will thank present me)
-<br>
+<br><br><br>
 
 ## 🐛 Known Issues (AKA My Shame List)
 
@@ -151,13 +159,16 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - You might get addicted to this pointless game (seek help)
 - The treasure room might be too easy to find (I'm not great at hiding things)
 - My Hindi-English mixed comments might confuse you (cultural diversity!)
-<br>
+<br><br><br>
 
 ## 🤝 Contributing (Join Our Madness)
+<br>
+<div align="center">
+  
 ![tenor (1)](https://github.com/user-attachments/assets/88c3409c-505d-474e-b4ce-e2cb4dbc8705)
+</div>
 
-
-
+<br>
 Want to make this game even more ridiculous? We accept pull requests for:
 
 - 🎭 More wizards with questionable riddles
@@ -173,12 +184,12 @@ Want to make this game even more ridiculous? We accept pull requests for:
 3. Make your changes (try not to break everything)
 4. Test thoroughly (please, for the love of Dijkstra)
 5. Submit a pull request (explain your genius)
-<br>
+<br><br><br>
 
 ## 📜 License
 
 This project is licensed under the "Do Whatever You Want But Don't Blame Me" License - see the LICENSE file for details. (Actually, it's probably MIT, but the sentiment remains.)
-<br>
+<br><br><br>
 
 ## 🙏 Acknowledgments
 
@@ -188,19 +199,23 @@ This project is licensed under the "Do Whatever You Want But Don't Blame Me" Lic
 - **Coffee** - The true MVP of this project
 - **My Sanity** - Sacrificed for your entertainment
 - **Anyone who actually plays this** - You're the real heroes
-<br>
+<br><br><br>
 
 ## 📞 Contact Me (If You Dare)
+
+<br>
+<div align="center">
+  
 ![contact](https://github.com/user-attachments/assets/0c4c1c7a-3844-4760-8519-1faeedf0ca36)
+</div>
 
-
-
+<br>
 Found a bug? Have a suggestion? Want to tell me this game changed your life? 
 
 - 📧 Email: hk689125@gmail.com (professional inquiries and existential programming discussions)
 - 🐙 GitHub: [@Rolling-Thunder07](https://github.com/Rolling-Thunder07) (where all my code babies live)
 - 💼 LinkedIn: [Hritik Kumar](https://www.linkedin.com/in/hritik-kumar-43a709302/) (for networking and pretending to be professional)
-
+<br>
 *Instagram? Facebook? Twitter? I don't have time for those - I'm too busy debugging my social life. Plus, my relationship status with social media is "It's Complicated" (mostly because I spend more time talking to compilers than humans).* 😅
 
 ---
@@ -218,8 +233,10 @@ Now go forth and find that treasure! And remember: in a world full of AAA games 
 
 **Happy Adventuring! 🎮✨**
 <br><br>
+<div align="center">
+  
 ![dance (1)](https://github.com/user-attachments/assets/55458d1b-58a8-40af-9bd0-b01b64192e3a)
-
+</div>
 
 ---
 
