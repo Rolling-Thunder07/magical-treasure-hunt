@@ -43,6 +43,10 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 ## 🏰 The Cast of Characters (AKA My Imaginary Friends)
 
 ### The Wizards Who Definitely Need Hobbies:
+
+![wizards](https://github.com/user-attachments/assets/36ea4af7-9fab-4fad-ab56-fab3cd49851d)
+
+
 - **🧙‍♂️ Albus Dumbledore** - Asks about levitation charms (yes, it's *Wingardium Leviosa*, Hermione)
 - **🖤 Severus Snape** - Tests your Horcrux knowledge (emo wizard energy)
 - **🐱 Minerva McGonagall** - Poses riddles that would make your brain hurt
@@ -64,6 +68,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 <br>
 
 ## 🛠️ Installation (AKA How to Ruin Your Productivity)
+![typing](https://github.com/user-attachments/assets/784145d3-2f9c-4a23-b865-1860eb3028ea)
 
 ### Prerequisites:
 - A C compiler (gcc recommended, unless you're feeling adventurous)
@@ -111,6 +116,14 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - **6** - Quit 🚪 (coward's way out)
 <br>
 
+## 📸 In-game Screenshots
+
+<div float="left" align="center">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-intro.jpg" width="500">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-location.jpg" width="500">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="600">
+</div>
+
 ## 🤓 Technical Mumbo Jumbo (For Fellow Code Nerds)
 
 - **Language**: C (because I hate myself and love pointers)
@@ -121,7 +134,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - **Architecture**: Procedural programming (old school cool)
 
 ### Code Statistics (That Nobody Asked For):
-- **Lines of Code**: ~400+ (I got carried away)
+- **Lines of Code**: ~500+ (We got carried away)
 - **Functions**: 15+ (decomposition is key, kids)
 - **Structs**: 3 (Location, Wizard, Question - the perfect trio)
 - **Global Variables**: A few (I know, I know, but sometimes you gotta live a little)
@@ -173,6 +186,9 @@ This project is licensed under the "Do Whatever You Want But Don't Blame Me" Lic
 
 ## 📞 Contact Me (If You Dare)
 
+![contact](https://github.com/user-attachments/assets/27d3ca15-13a3-47b0-9478-34a2b2b63d13)
+
+
 Found a bug? Have a suggestion? Want to tell me this game changed your life? 
 
 - 📧 Email: hk689125@gmail.com (professional inquiries and existential programming discussions)
@@ -195,6 +211,8 @@ Now go forth and find that treasure! And remember: in a world full of AAA games 
 *May your pointers never be null, and may your segfaults be few.*
 
 **Happy Adventuring! 🎮✨**
+<br><br>
+![dance (1)](https://github.com/user-attachments/assets/b3d10110-4af5-41e9-a369-bbc424fcc3e9)
 
 ---
 
