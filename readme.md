@@ -68,7 +68,8 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 <br>
 
 ## 🛠️ Installation (AKA How to Ruin Your Productivity)
-![typing](https://github.com/user-attachments/assets/784145d3-2f9c-4a23-b865-1860eb3028ea)
+![typing](https://github.com/user-attachments/assets/87b56310-1398-4675-ac72-384d653ce52f)
+
 
 ### Prerequisites:
 - A C compiler (gcc recommended, unless you're feeling adventurous)
