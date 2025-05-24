@@ -121,7 +121,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 <div float="left" align="center">
 <img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-intro.jpg" width="500">
 <img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-location.jpg" width="500">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="600">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="500">
 </div>
 
 ## 🤓 Technical Mumbo Jumbo (For Fellow Code Nerds)
