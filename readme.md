@@ -119,9 +119,11 @@ gcc src/treasure_hunt.c -o treasure_hunt
 ## 📸 In-game Screenshots
 
 <div float="left" align="center">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-intro.jpg" width="500">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-location.jpg" width="500">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="500">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-intro.jpg" width="400">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-location.jpg" width="400">
+</div>
+<div align="center">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="400">
 </div>
 
 ## 🤓 Technical Mumbo Jumbo (For Fellow Code Nerds)
