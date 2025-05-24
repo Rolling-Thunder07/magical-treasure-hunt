@@ -1,10 +1,16 @@
-# 🧙‍♂️✨ MAGICAL TREASURE HUNT ✨🏰
+<h1 align="center"> 🧙‍♂️✨ MAGICAL TREASURE HUNT ✨🏰 </h1>
 
+<p align="center">
 *Because who needs a social life when you can argue with fictional wizards in your terminal?*
+</p>
+
+<br><br>
 
 Welcome to the most unnecessarily elaborate way to procrastinate on your actual responsibilities! This is a text-based adventure game written in C (yes, C - because I'm apparently stuck in 1972 and proud of it) where you explore a mystical castle, annoy wizards with your presence, and hunt for treasure like a caffeinated Indiana Jones with commitment issues.
 
 **🎓 Academic Achievement Unlocked**: This masterpiece was crafted as a DSA (Data Structures and Algorithms) project assignment, proving that learning can be fun when you add enough wizards and terrible puns. Created in collaboration with a dear friend who probably questions our life choices as much as I do! 🤝💻
+
+<br>
 
 ## 🎮 What Even Is This?
 
@@ -15,6 +21,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - 🧩 Answer riddles that range from "Harry Potter trivia" to "things your grandpa would ask"
 - 💎 Find treasure (spoiler: it's in room 7 - oops, did I say that out loud?)
 - 💀 Die spectacularly if you get too many answers wrong (bazinga! - death by trivia)
+<br>
 
 ## 🎯 Features That Will Blow Your Mind*
 *Results may vary. Mind-blowing not guaranteed.
@@ -25,6 +32,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - **⏱️ Time Tracking** - So you can see exactly how much of your life you've wasted
 - **🧠 Memory Management** - I use malloc() like a responsible adult (mom would be proud)
 - **📊 Step Counter** - Because apparently we're turning exploration into a fitness tracker now
+<br>
 
 ## 🏰 The Cast of Characters (AKA My Imaginary Friends)
 
@@ -34,6 +42,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - **🐱 Minerva McGonagall** - Poses riddles that would make your brain hurt
 - **🐻 Rubeus Hagrid** - Talks about magical creatures (probably wants to adopt them all)
 - **💀 Lord Voldemort** - The final boss who's basically a magical psychopath
+<br>
 
 ### The Locations (My Virtual Real Estate Portfolio):
 - 🚪 **Castle Entrance** - Where dreams begin and hope dies
@@ -46,6 +55,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 - 💎 **Treasure Room** - The whole point of this exercise
 - 🏛️ **Great Hall** - Where epic stuff probably happened once
 - 🔮 **Secret Chamber** - Because every castle needs one
+<br>
 
 ## 🛠️ Installation (AKA How to Ruin Your Productivity)
 
@@ -73,6 +83,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 # Use WSL or suffer in silence
 # Or try: gcc treasure_hunt.c -o treasure_hunt.exe
 ```
+<br>
 
 ## 🎲 How to Play (Like You Need Instructions)
 
@@ -83,6 +94,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 5. **Meet wizards** - Answer their riddles or face the consequences
 6. **Find the treasure** - It's literally the objective
 7. **Brag to your friends** - As if they'll be impressed
+<br>
 
 ### Controls (Because Apparently This Needs Explaining):
 - **1** - Go North ⬆️ (up, away from your problems)
@@ -91,6 +103,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - **4** - Go West ⬅️ (left, but we don't talk about that)
 - **5** - Show Map 🗺️ (for when you're hopelessly lost)
 - **6** - Quit 🚪 (coward's way out)
+<br>
 
 ## 🤓 Technical Mumbo Jumbo (For Fellow Code Nerds)
 
@@ -107,6 +120,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - **Structs**: 3 (Location, Wizard, Question - the perfect trio)
 - **Global Variables**: A few (I know, I know, but sometimes you gotta live a little)
 - **Comments**: Excessive (future me will thank present me)
+<br>
 
 ## 🐛 Known Issues (AKA My Shame List)
 
@@ -115,6 +129,7 @@ gcc src/treasure_hunt.c -o treasure_hunt
 - You might get addicted to this pointless game (seek help)
 - The treasure room might be too easy to find (I'm not great at hiding things)
 - My Hindi-English mixed comments might confuse you (cultural diversity!)
+<br>
 
 ## 🤝 Contributing (Join My Madness)
 
@@ -125,6 +140,7 @@ Want to make this game even more ridiculous? I accept pull requests for:
 - 🎨 Better ASCII art (mine looks like a 5-year-old drew it)
 - 🐛 Bug fixes (please, I'm begging you)
 - 🌟 New features (but keep it nerdy)
+<br>
 
 ### How to Contribute:
 1. Fork this repository (hit that button like it owes you money)
@@ -132,10 +148,12 @@ Want to make this game even more ridiculous? I accept pull requests for:
 3. Make your changes (try not to break everything)
 4. Test thoroughly (please, for the love of Dijkstra)
 5. Submit a pull request (explain your genius)
+<br>
 
 ## 📜 License
 
 This project is licensed under the "Do Whatever You Want But Don't Blame Me" License - see the LICENSE file for details. (Actually, it's probably MIT, but the sentiment remains.)
+<br>
 
 ## 🙏 Acknowledgments
 
@@ -145,6 +163,7 @@ This project is licensed under the "Do Whatever You Want But Don't Blame Me" Lic
 - **Coffee** - The true MVP of this project
 - **My Sanity** - Sacrificed for your entertainment
 - **Anyone who actually plays this** - You're the real heroes
+<br>
 
 ## 📞 Contact Me (If You Dare)
 
@@ -157,6 +176,7 @@ Found a bug? Have a suggestion? Want to tell me this game changed your life?
 *Instagram? Facebook? Twitter? I don't have time for those - I'm too busy debugging my social life. Plus, my relationship status with social media is "It's Complicated" (mostly because I spend more time talking to compilers than humans).* 😅
 
 ---
+<br>
 
 ## 🎯 Final Words
 
