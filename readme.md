@@ -43,8 +43,9 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 ## 🏰 The Cast of Characters (AKA My Imaginary Friends)
 
 ### The Wizards Who Definitely Need Hobbies:
+![wizards](https://github.com/user-attachments/assets/3f13924e-130e-4d1b-924c-0e8ba508477a)
 
-![wizards](https://github.com/user-attachments/assets/36ea4af7-9fab-4fad-ab56-fab3cd49851d)
+
 
 
 - **🧙‍♂️ Albus Dumbledore** - Asks about levitation charms (yes, it's *Wingardium Leviosa*, Hermione)
@@ -68,7 +69,7 @@ Remember when games had actual imagination instead of just better graphics? Yeah
 <br>
 
 ## 🛠️ Installation (AKA How to Ruin Your Productivity)
-![typing](https://github.com/user-attachments/assets/87b56310-1398-4675-ac72-384d653ce52f)
+![typing 3](https://github.com/user-attachments/assets/45d4a9c6-aac4-4a55-b308-72a132f4b608)
 
 
 ### Prerequisites:
@@ -153,7 +154,8 @@ gcc src/treasure_hunt.c -o treasure_hunt
 <br>
 
 ## 🤝 Contributing (Join Our Madness)
-![tenor (1)](https://github.com/user-attachments/assets/53eefbbc-0ca6-457c-a074-122edf8afd04)
+![tenor (1)](https://github.com/user-attachments/assets/88c3409c-505d-474e-b4ce-e2cb4dbc8705)
+
 
 
 Want to make this game even more ridiculous? We accept pull requests for:
@@ -189,8 +191,8 @@ This project is licensed under the "Do Whatever You Want But Don't Blame Me" Lic
 <br>
 
 ## 📞 Contact Me (If You Dare)
+![contact](https://github.com/user-attachments/assets/0c4c1c7a-3844-4760-8519-1faeedf0ca36)
 
-![contact](https://github.com/user-attachments/assets/27d3ca15-13a3-47b0-9478-34a2b2b63d13)
 
 
 Found a bug? Have a suggestion? Want to tell me this game changed your life? 
@@ -216,7 +218,8 @@ Now go forth and find that treasure! And remember: in a world full of AAA games 
 
 **Happy Adventuring! 🎮✨**
 <br><br>
-![dance (1)](https://github.com/user-attachments/assets/b3d10110-4af5-41e9-a369-bbc424fcc3e9)
+![dance (1)](https://github.com/user-attachments/assets/55458d1b-58a8-40af-9bd0-b01b64192e3a)
+
 
 ---
 
