@@ -153,7 +153,8 @@ gcc src/treasure_hunt.c -o treasure_hunt
 <br>
 
 ## 🤝 Contributing (Join Our Madness)
-![tenor](https://github.com/user-attachments/assets/af21dd38-057b-4c99-90b9-84136f3601b5)
+![tenor (1)](https://github.com/user-attachments/assets/53eefbbc-0ca6-457c-a074-122edf8afd04)
+
 
 Want to make this game even more ridiculous? We accept pull requests for:
 
