@@ -14,7 +14,7 @@
 
 Welcome to the most unnecessarily elaborate way to procrastinate on your actual responsibilities! This is a text-based adventure game written in C (yes, C - because I'm apparently stuck in 1972 and proud of it) where you explore a mystical castle, annoy wizards with your presence, and hunt for treasure like a caffeinated Indiana Jones with commitment issues.
 
-**🎓 Academic Achievement Unlocked**: This masterpiece was crafted as a DSA (Data Structures and Algorithms) project assignment, proving that learning can be fun when you add enough wizards and terrible puns. Created in collaboration with a dear friend who probably questions our life choices as much as I do! 🤝💻
+**🎓 Academic Achievement Unlocked**: This masterpiece was crafted as a DSA (Data Structures and Algorithms) project assignment, proving that learning can be fun when you add enough wizards and terrible puns. Created in collaboration with a dear friend <a href="DhananjayLogDMax" target="_blank">Dhananjay 👦</a> who probably questions our life choices as much as I do! 🤝💻
 
 <br>
 
