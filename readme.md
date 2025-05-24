@@ -6,11 +6,11 @@
 
 
 <div align="center">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/voldemort.jpg" width="20%"><img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/Harry%20Potter.jpg" width="20%">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/voldemort.jpg" width="25%"><img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/Harry%20Potter.jpg" width="25%">
 </div>
 
 
-<br><br>
+<br>
 
 Welcome to the most unnecessarily elaborate way to procrastinate on your actual responsibilities! This is a text-based adventure game written in C (yes, C - because I'm apparently stuck in 1972 and proud of it) where you explore a mystical castle, annoy wizards with your presence, and hunt for treasure like a caffeinated Indiana Jones with commitment issues.
 
