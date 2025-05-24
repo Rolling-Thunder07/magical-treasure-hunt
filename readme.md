@@ -216,7 +216,7 @@ Found a bug? Have a suggestion? Want to tell me this game changed your life?
 - 🐙 GitHub: [@Rolling-Thunder07](https://github.com/Rolling-Thunder07) (where all my code babies live)
 - 💼 LinkedIn: [Hritik Kumar](https://www.linkedin.com/in/hritik-kumar-43a709302/) (for networking and pretending to be professional)
 <br>
-*Instagram? Facebook? Twitter? I don't have time for those - I'm too busy debugging my social life. Plus, my relationship status with social media is "It's Complicated" (mostly because I spend more time talking to compilers than humans).* 😅
+*Instagram? Facebook? Twitter? I don't have time for those - I'm too busy debugging my social life. Plus, my relationship status with social media is "It's Complicated" (mostly because I spend more time watching movies-series-anime (cinephile spotted :)) and talking to compilers than humans).* 😅
 
 ---
 <br>
