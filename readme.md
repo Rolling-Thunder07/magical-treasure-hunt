@@ -4,9 +4,9 @@
 *Because who needs a social life when you can argue with fictional wizards in your terminal?*
 </p>
 
-<div float="left" align="center">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/voldemort.jpg" width="200">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/Harry%20Potter.jpg" width="200">
+
+<div align="center">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/voldemort.jpg" width="20%"><img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/Harry%20Potter.jpg" width="20%">
 </div>
 
 
@@ -118,12 +118,11 @@ gcc src/treasure_hunt.c -o treasure_hunt
 
 ## 📸 In-game Screenshots
 
-<div float="left" align="center">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-intro.jpg" width="400">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-location.jpg" width="400">
+<div align="center">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-intro.jpg" width="50%"><img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-location.jpg" width="50%">
 </div>
 <div align="center">
-<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="400">
+<img src="https://github.com/Rolling-Thunder07/magical-treasure-hunt/blob/main/img/game-wizard.jpg" width="50%">
 </div>
 
 ## 🤓 Technical Mumbo Jumbo (For Fellow Code Nerds)
